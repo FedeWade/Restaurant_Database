@@ -1,2 +1,5 @@
 # Restaurant_Database
-SQL relational database project developed with MySQL.
+
+The aim of the project is to develop a SQL relational database with MySQL to help managing a restaurant.
+
+Full report and documentation for this project: "Le Tegnue - Ristorante.pdf".
