@@ -2,4 +2,4 @@
 
 The aim of the project is to develop a SQL relational database with MySQL to help managing a restaurant.
 
-Full report and documentation for this project: "Le Tegnue - Ristorante.pdf".
+For full report and documentation for this project see the [LeTegnue-Ristorante.pdf](LeTegnue-Ristorante.pdf) file.
