@@ -1,4 +1,4 @@
-# Restaurant_Database
+# MySQL Restaurant Database
 
 The aim of the project is to develop a SQL relational database with MySQL to help managing a restaurant.
 
